@@ -86,7 +86,7 @@ ollama pull qwen2.5-coder:1.5b
 
 ## 🗑️ Uninstallation (Total Cleanup)
 
-To completely remove Ollama and all downloaded models, run these steps in order:
+To completely remove Ollama and all downloaded models, run these steps in order one by one:
 
 ### 1. Stop and Disable the Service
 ```bash
