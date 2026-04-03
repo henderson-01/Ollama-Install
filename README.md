@@ -118,6 +118,7 @@ sudo systemctl daemon-reload
 
 ```bash
 sudo rm /usr/local/bin/ollama
+sudo rm -rf /usr/lib/ollama
 sudo userdel ollama
 sudo groupdel ollama
 ```
