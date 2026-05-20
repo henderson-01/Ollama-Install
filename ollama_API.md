@@ -1,13 +1,13 @@
-# Ollama API Guide
+# 📝 Ollama API Guide
 
 This guide provides a quick overview of how to interact with the Ollama API to run large language models locally.
 
-## Prerequisites
+## 📥 Prerequisites
 
 - [Ollama](https://ollama.com/) must be installed and running on your machine.
 - By default, the API is available at: `http://localhost:11434`
 
-## API Endpoints
+## 💡 API Endpoints
 
 ### 1. Generate a Completion
 
@@ -78,7 +78,7 @@ Download a model from the Ollama library.
 
 ---
 
-## Handling Responses
+## 📩 Handling Responses
 
 ### Streaming (Default)
 
@@ -120,7 +120,7 @@ Returns a `message` object containing the role and content.
 }
 ```
 
-## Common Ports & Troubleshooting
+## 🧐 Common Ports & Troubleshooting
 
 - **Default Port:** `11434`
 - **Environment Variables:** If you need to access the API from a different device on your network, set `OLLAMA_HOST=0.0.0.0` before starting the Ollama server.
