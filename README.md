@@ -141,8 +141,10 @@ rm -rf ~/.ollama
 
 ## 📝 Ollama API Guide
 
-For a guide on how to interact with the Ollama API's see the ollama_API.md file for more details.
+> [!NOTE]
+> For a guide on how to interact with the Ollama API's see the ollama_API.md file for more details.
 
 ## ⚠️ Disclaimer
 
-This is provided "as is" without warranty of any kind. I am not responsible for any damage, data loss, or issues caused by the use of this information. **Use it at your own risk.**
+> [!CAUTION]
+> This is provided "as is" without warranty of any kind. I am not responsible for any damage, data loss, or issues caused by the use of this information. **Use it at your own risk.**
