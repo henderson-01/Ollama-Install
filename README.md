@@ -1,4 +1,4 @@
-*Notice: This repository is no longer actively maintained and may contain information.*
+*Notice: This repository is no longer actively maintained and may contain outdated information.*
 
 # Local AI Setup: Ubuntu LTS with a GTX 1050 Ti
 
