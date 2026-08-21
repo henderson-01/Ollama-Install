@@ -1,3 +1,5 @@
+*Notice: This repository is no longer actively maintained and may contain information.*
+
 # Local AI Setup: Ubuntu LTS with a GTX 1050 Ti
 
 This guide covers the installation and management of **Ollama** using the specialized **Qwen2.5-Coder (1.5B)** model. The 1050 Ti is the reference card for this lightweight, high-performance setup.
